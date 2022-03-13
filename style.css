@@ -58,3 +58,10 @@ input[type="number"] {
 a {
 	color: #eee;
 }
+
+.red {
+	color: #f33;
+}
+.green {
+	color: greenyellow;
+}
