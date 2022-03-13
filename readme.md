@@ -1,6 +1,6 @@
 # Fork of [505e06b2's Image-to-Braille](https://github.com/505e06b2/Image-to-Braille)
 
-# ==> [Test it out in your browser!](https://505e06b2.github.io/Image-to-Braille/)
+# ==> [Try it out!](https://zurrty.neocities.org/braille/)
 
 ## Source (soundcloud rapper izaya tiji):
 ![soundcloud rapper izaya tiji](tiji.jpg)

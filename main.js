@@ -132,5 +132,5 @@ async function parseCanvas(canvas) {
 
 window.onload = () => {
     initUI()
-    loadNewImage("select.png")
+    loadNewImage("https://github.com/zurrty/Image-to-Braille/blob/master/select.png?raw=true")
 }
